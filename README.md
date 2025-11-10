@@ -42,7 +42,7 @@ This repository is a showcase of the project; the full source code is private.�
 
 ## Architecture Diagram 🏛️
 <p align="center">
-  <img src="/README_images/Finance-Tracker-App.png" alt="authAxios" width="100%" />
+  <img src="/architecture.png" alt="authAxios" width="100%" />
 </p>
 
 ## Feature Demonstration
