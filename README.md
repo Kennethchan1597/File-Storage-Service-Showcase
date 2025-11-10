@@ -45,21 +45,18 @@ This repository is a showcase of the project; the full source code is private.ðŸ
   <img src="/architecture.png" alt="authAxios" width="100%" />
 </p>
 
-## Feature Demonstration
-**Login and Create**
-<br>
-<div>
-  <p align="center">
-    <img src="/README_images/Login_gif.gif" alt="Login Demo" width="40%" />
-    <img src="/README_images/Create_gif.gif" alt="Create Transaction Demo" width="40%" />
-  </p>
-</div>
+## File Access Flow
+<p align="center">
+  <img src="/File.png" alt="authAxios" width="100%" />
+</p>
 
-**Update and Delete**
-<br>
-<div>
-  <p align="center">
-    <img src="/README_images/Update_gif.gif" alt="Login Demo" width="40%" />
-    <img src="/README_images/Delete_gif.gif" alt="Create Transaction Demo" width="40%" />
-  </p>
-</div>
+## Docker Setup
+<p align="center">
+  <img src="/docker-setup.png" alt="authAxios" width="100%" />
+  <img src="/docker.png" alt="authAxios" width="100%" />
+</p>
+
+## API testing example
+<p align="center">
+  <img src="/postman.png" alt="authAxios" width="100%" />
+</p>
