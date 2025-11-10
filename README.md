@@ -47,16 +47,16 @@ This repository is a showcase of the project; the full source code is private.ðŸ
 
 ## File Access Flow
 <p align="center">
-  <img src="/File.png" alt="authAxios" width="100%" />
+  <img src="/file.png" alt="fileflow" width="100%" />
 </p>
 
 ## Docker Setup
 <p align="center">
-  <img src="/docker-setup.png" alt="authAxios" width="100%" />
-  <img src="/docker.png" alt="authAxios" width="100%" />
+  <img src="/dockersetup.png" alt="dockersetup" width="100%" />
+  <img src="/docker.png" alt="docker" width="100%" />
 </p>
 
 ## API testing example
 <p align="center">
-  <img src="/postman.png" alt="authAxios" width="100%" />
+  <img src="/postman.png" alt="postman" width="100%" />
 </p>
